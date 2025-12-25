@@ -2,7 +2,7 @@
 
 Taglia's Gaming Pad is a 6 key macropad with 2 SK6812MINI RGB Leds that uses KMK software
 
-It was made for the Hackpad YSWS
+It was made for the Hackpad YSWS on Hack Club
 
 ## Features:
 - 3D printed case (color to be defined)
@@ -22,12 +22,14 @@ All made in Autocad Fusion (former Fusion360)
 
 
 ## PCB
-Here is the PCB of my Pad! it was made in KiCad 9.0. Some little easter eggs have been added to the board as text, like a couple of memes, a phrase in my nativa language and my Pad's name
+Here is the PCB of my Pad! it was made in KiCad 9.0. Some little easter eggs have been added to the board as text, like a couple of memes, a phrase in my native language and my Pad's name
 
 Schematic
+
 <img src=assets/schematic.png alt="Schematic" width="300"/>
 
 PCB
+
 <img src=assets/pcb.png alt="Schematic" width="300"/>
 
 The keyswitch footprints used are Cherry MX1 switches
